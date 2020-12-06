@@ -1,5 +1,5 @@
 const fs = require('fs');
-const range = require('./range.js');
+const range = require('../../utils/range.js');
 const missingNum = require('./missingNum.js');
 
 let data = fs.readFileSync('input.txt', 'utf-8');
