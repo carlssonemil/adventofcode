@@ -1,0 +1,8 @@
+import './day1/index.js'
+import './day2/index.js'
+import './day3/index.js'
+import './day4/index.js'
+import './day5/index.js'
+import './day6/index.js'
+import './day7/index.js'
+import './day8/index.js'
