@@ -4,7 +4,7 @@ import { readFileSync } from 'fs';
 import partOne from '../src/partOne.js';
 import partTwo from '../src/partTwo.js';
 
-const input = readFileSync('./2020/day8/test/input.txt', 'utf-8');
+const input = readFileSync('./2020/day08/test/input.txt', 'utf-8');
 
 describe('Day 8: Handheld Halting', () => {
   describe('Part One:', () => {
